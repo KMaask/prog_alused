@@ -1,1 +1,1 @@
-print('Tere.maailm!')
+print('Tere, maailm!')
